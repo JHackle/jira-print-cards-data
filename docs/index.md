@@ -1,3 +1,6 @@
+---
+title: Datenschutzerklärung
+---
 # Datenschutzerklärung
 
 **Stand:** Oktober 2025
